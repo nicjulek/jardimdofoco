@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Projetofinalmobile.RedTheme" parent="Base.Theme.Projetofinalmobile">
+        <item name="colorPrimary">@color/my_red_primary</item>
+        <item name="colorOnPrimary">@color/my_red_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/my_red_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/my_red_onPrimaryContainer</item>
+        <item name="colorSecondaryContainer">@color/my_red_secondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/my_red_onSecondaryContainer</item>
+    </style>
+
+    <style name="Base.Theme.PlantaDeEstudo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/md_theme_light_primary</item>
+        <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
+        <item name="colorPrimaryContainer">@color/md_theme_light_primaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/md_theme_light_onPrimaryContainer</item>
+        <item name="colorSecondary">@color/md_theme_light_secondary</item>
+        <item name="android:colorBackground">@color/md_theme_light_background</item>
+        <item name="colorOnBackground">@color/md_theme_light_onBackground</item>
+        <item name="colorSurface">@color/md_theme_light_surface</item>
+        <item name="colorOnSurface">@color/md_theme_light_onSurface</item>
+    </style>
+
+    <style name="Theme.Projetofinalmobile" parent="Base.Theme.Projetofinalmobile" />
+</resources>

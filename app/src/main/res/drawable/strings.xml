@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PlantaDeEstudo</string>
+    <string name="plant_image_desc">Imagem da planta em crescimento</string>
+    <string name="button_study_text">Registrar Estudo / Regar</string>
+</resources>
